@@ -1,1 +1,0 @@
-Get-ADDUser -Filter * -Property Enabled | Export-Csv -Path C:\AD_users.csv
